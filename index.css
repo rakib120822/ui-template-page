@@ -250,3 +250,56 @@ nav h1 {
     border-radius: 48px;
     width: 100%;
 }
+
+
+/* newsletter-section-style */
+
+.newsletter-section {
+    width: 80%;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 71px 0;
+}
+
+.newsletter-left-section {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.newsletter-left-section h2 {
+    font-size: 97px;
+    font-weight: bold;
+    line-height: 120%;
+}
+
+.newsletter-right-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+}
+
+label {
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.newsletter-right-section input,
+textarea {
+    margin-bottom: 19px;
+    border-radius: 10px;
+    padding: 20px 32px;
+    border: none;
+}
+
+.newsletter-right-section input::placeholder,
+textarea::placeholder {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-size: normal;
+}
