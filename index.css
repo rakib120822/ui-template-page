@@ -214,3 +214,39 @@ nav h1 {
 .profile-info p {
     color: #B3B3B3;
 }
+
+/* focuse-section-style */
+.focus-section {
+    width: 80%;
+    margin: 100px auto;
+    text-align: center;
+    padding: 71px 150px;
+    border-radius: 14px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+
+.focus-section h2 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 120%;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.focus-section p {
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.focus-section button {
+    margin-bottom: 20px;
+}
+
+
+.focus-section-img img {
+    border-radius: 48px;
+    width: 100%;
+}
