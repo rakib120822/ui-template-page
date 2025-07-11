@@ -100,3 +100,43 @@ nav h1 {
 .right-section img {
     border-radius: 48px;
 }
+
+/* product-section-style */
+.product-section {
+    width: 80%;
+    text-align: center;
+    margin: 100px auto;
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 24px;
+    padding: 50px 80px;
+}
+
+.product-section h3 {
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product {
+    text-align: center;
+}
+
+.product h2 {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+}
+
+.product p {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Inter", sans-serif;
+}
