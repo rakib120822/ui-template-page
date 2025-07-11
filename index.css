@@ -163,7 +163,7 @@ nav h1 {
 }
 
 .review {
-    padding: 24px 27px 24px 24px;
+    padding: 24px 70px 24px 24px;
     text-align: start;
     border: 1px solid #F2EDED;
     border-radius: 14px;
@@ -215,7 +215,7 @@ nav h1 {
     color: #B3B3B3;
 }
 
-/* focuse-section-style */
+/* focus-section-style */
 .focus-section {
     width: 80%;
     margin: 100px auto;
